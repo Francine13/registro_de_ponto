@@ -1,0 +1,50 @@
+{
+    "versao": "0.1",
+    "funcionarios": [
+        {
+            "codigo": "func001",
+            "nome": "Chandler",
+            "idade": 25,
+            "cargo": "Técnico Interno",
+            "fotos": [
+                "faces/chandler1.png",
+                "faces/chandler2.jpg",
+                "faces/chandler3.jpg"
+            ]
+        },
+        {
+            "codigo": "func002",
+            "nome": "Joey",
+            "idade": 23,
+            "cargo": "Técnico Externo",
+            "fotos": [
+                "faces/joey1.jpg",
+                "faces/joey2.jpg",
+                "faces/joey3.jpg"
+            ]
+        },
+        {
+            "codigo": "func003",
+            "nome": "Ross",
+            "idade": 25,
+            "cargo": "Técnico Interno",
+            "fotos": [
+                "faces/ross1.jpg",
+                "faces/ross2.jpeg",
+                "faces/ross3.jpg"
+            ]
+        },
+        {
+            "codigo": "func004",
+            "nome": "Phoebe",
+            "idade": 22,
+            "cargo": "Gerente",
+            "fotos": [
+                "faces/phoebe1.jpeg",
+                "faces/phoebe2.jpg",
+                "faces/phoebe3.jpg"
+            ]
+        }
+        
+    ]
+}
